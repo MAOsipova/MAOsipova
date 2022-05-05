@@ -1,5 +1,5 @@
 ## Hi, I'm Maria! 
-I am an aspiring data scientist who loves machine learning, statistics and programming. 
+I am a data scientist who loves machine learning, statistics and programming. 
 Despite the fact that I have just started my journey in Data Science, I enjoy learning and am excited to work with new libraries, tools and methods.
 
 I am open to new job offers and looking forward to collaborating on your project!
